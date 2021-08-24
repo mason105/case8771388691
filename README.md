@@ -34,3 +34,10 @@ you will get timeout error
 
 
 
+----------------------------------------
+so i think this difference between ./chalicelib/alibabacloud_ecs20140526_models.py and ./chalicelib/alibabacloud_ecs20140526_models_not_working.py. cause the problem. I think the the file size may casue the problem.
+
+|        | alibabacloud_ecs20140526_models   | alibabacloud_ecs20140526_models_not_working.py   |
+|  ----  | ----  |----  |
+| chalice local  | Worked | Worked |
+| chalice deploy  | Worked |Not work |
