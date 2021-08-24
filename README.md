@@ -42,4 +42,5 @@ so i think this difference between ./chalicelib/alibabacloud_ecs20140526_models.
 | file Size  | 830k  |2.5M  |
 | chalice local  | Worked | Worked |
 | chalice deploy  | Worked |Not work |
+|  ----  | ----  |----  |
 alibabacloud_ecs20140526_models_not_working.py. contains more class
